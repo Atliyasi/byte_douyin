@@ -1,0 +1,2 @@
+2023-09-06T11:52:39.126+0800	[31mERROR[0m	dao/video_dao.go:100	[video_dao] UpdateVideoUserByWork
+2023-09-06T11:52:39.126+0800	[31mERROR[0m	controller/publish_controller.go:46	[PublishAction]Error 1054 (42S22): Unknown column 'WorkCount' in 'field list'
